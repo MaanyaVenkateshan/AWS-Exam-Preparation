@@ -1,2 +1,2 @@
 # AWS-Exam-Preparation
-AWS exanples
+AWS examples
